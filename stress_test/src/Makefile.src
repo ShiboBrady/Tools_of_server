@@ -1,0 +1,4 @@
+SOURCES += main.cpp \
+		   http.cpp \
+		   Confaccess.cpp \
+		   send_post.cpp
